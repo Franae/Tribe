@@ -2,5 +2,6 @@
 "name": "Tribe Pool Rocks",
 "description": "Tribe Pool Rocks - Stake Pool for Cardano",
 "ticker": "TRIBE",
-"homepage": "https://tribepoolrocks.com"
+"homepage": "https://tribepoolrocks.com",
+"extended": "https://git.io/JstNQ"
 }
