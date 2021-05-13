@@ -1,12 +1,11 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://git.io/JstNO",
         "url_png_logo": "https://git.io/JstNO",
-        "location": "London, England",
+        "location": "Madrid, Spain",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "TribePoolRocks",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -14,47 +13,20 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "Tribe Pool Rocks",
+            "addr": "",
+            "city": "Madrid",
+            "country": "Spain",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
-        }
-    },
-    "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
+            "me": "We are a group of passionate about blockchain and cryptocurrency. We would like to be able to change the world by contributing our active presence in the community.",
+            "server": "Maintain a 24/7 pool to be active into the cardano network community.",
+            "company": ""
+        },
+        "my-pool-ids": {
+        "0": "69e9c9861cdc0db056c9611e11cb91994f16063d973acdad43a2c827"
+        },
     }
 }
